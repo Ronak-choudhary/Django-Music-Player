@@ -85,6 +85,10 @@ App/
 └── migrations/
 ```
 
+## Demo
+
+A demonstration video of the application is available named Music-Player_Functioning.mp4.
+
 ---
 
 ## Database Model
